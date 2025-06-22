@@ -2,7 +2,7 @@
   "name": "caret-scroller",
   "displayName": "Caret Scroller",
   "description": "Keeps your cursor fixed at a specific position in the viewport while scrolling through code",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "publisher": "wHoOoHW",
   "repository": {
     "type": "git",
